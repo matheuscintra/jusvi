@@ -23,9 +23,16 @@
         * [Seção II - Da Modificação da Competência](codigo-de-processo-civil/livro-ii-da-funcao-jurisdicional/titulo-iii-da-competencia-interna/capitulo-i-da-competencia/secao-ii-da-modificacao-da-competencia.md)
         * [Seção III - Da Incompetência](codigo-de-processo-civil/livro-ii-da-funcao-jurisdicional/titulo-iii-da-competencia-interna/capitulo-i-da-competencia/secao-iii-da-incompetencia.md)
       * [CAPÍTULO II - DA COOPERAÇÃO NACIONAL](codigo-de-processo-civil/livro-ii-da-funcao-jurisdicional/titulo-iii-da-competencia-interna/capitulo-ii-da-cooperacao-nacional.md)
-* [Súmulas STJ](sumulas-stj.md)
-* [Súmulas STF](sumulas-stf.md)
+
+## Súmulas
+
+* [Súmulas STJ](sumulas/sumulas-stj.md)
+* [Súmulas STF](sumulas/sumulas-stf.md)
 
 ## Leis
 
 * [Lei 8.069/90 - Estatuto da Criança e do Adolescente](leis/lei-8.069-90-estatuto-da-crianca-e-do-adolescente.md)
+
+## Regimentos Internos
+
+* [Page 1](regimentos-internos/page-1.md)
