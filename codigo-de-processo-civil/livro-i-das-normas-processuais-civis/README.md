@@ -1,8 +1,4 @@
----
-description: art. 1 - 15
----
-
-# LIVRO I - DAS NORMAS PROCESSUAIS CIVIS
+# Livro I - DAS NORMAS PROCESSUAIS CIVIS
 
 TÍTULO ÚNICO
 

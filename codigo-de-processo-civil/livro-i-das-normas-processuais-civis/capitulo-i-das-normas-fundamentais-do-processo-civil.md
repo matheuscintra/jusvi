@@ -1,7 +1,3 @@
----
-description: arts. 01 - 12
----
-
 # CAPÍTULO I - DAS NORMAS FUNDAMENTAIS DO PROCESSO CIVIL
 
 CAPÍTULO I

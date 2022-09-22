@@ -12,7 +12,7 @@ Link para o site do planalto
 
 A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
 
-PARTE GERAL
+[PARTE GERAL](parte-geral.md)
 
 PARTE ESPECIAL
 
