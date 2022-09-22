@@ -1,3 +1,7 @@
+---
+description: arts. 26 - 27
+---
+
 # Seção I - Disposições Gerais
 
 Art. 26. A cooperação jurídica internacional será regida por tratado de que o Brasil faz parte e observará:

@@ -42,4 +42,4 @@ Art. 25. Não compete à autoridade judiciária brasileira o processamento e o j
 
 § 1º Não se aplica o disposto no caput às hipóteses de competência internacional exclusiva previstas neste Capítulo.
 
-§ 2º Aplica-se à hipótese do caput o [art. 63, §§ 1º a 4º ](http://www.planalto.gov.br/ccivil\_03/\_Ato2015-2018/2015/Lei/L13105.htm#art63%C2%A71).
+§ 2º Aplica-se à hipótese do caput o art. 63, §§ 1º a 4º .

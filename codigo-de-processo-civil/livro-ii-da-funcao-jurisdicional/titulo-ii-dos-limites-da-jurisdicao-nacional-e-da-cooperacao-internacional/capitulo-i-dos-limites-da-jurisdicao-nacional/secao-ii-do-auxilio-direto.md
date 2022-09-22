@@ -1,3 +1,7 @@
+---
+description: arts. 28 - 34
+---
+
 # Seção II - Do Auxílio Direto
 
 Art. 28. Cabe auxílio direto quando a medida não decorrer diretamente de decisão de autoridade jurisdicional estrangeira a ser submetida a juízo de delibação no Brasil.
@@ -21,5 +25,3 @@ Art. 33. Recebido o pedido de auxílio direto passivo, a autoridade central o en
 Parágrafo único. O Ministério Público requererá em juízo a medida solicitada quando for autoridade central.
 
 Art. 34. Compete ao juízo federal do lugar em que deva ser executada a medida apreciar pedido de auxílio direto passivo que demande prestação de atividade jurisdicional.
-
-Created with the Personal Edition of HelpNDoc: [Easily create Qt Help files](https://www.helpndoc.com/feature-tour)

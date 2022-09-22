@@ -1,3 +1,7 @@
+---
+description: arts. 21 - 41
+---
+
 # TÍTULO II - DOS LIMITES DA JURISDIÇÃO NACIONAL E DA COOPERAÇÃO INTERNACIONAL
 
 CAPÍTULO I
