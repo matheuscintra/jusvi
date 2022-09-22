@@ -14,3 +14,7 @@
       * [CAPÍTULO II - DA COOPERAÇÃO INTERNACIONAL](codigo-de-processo-civil/livro-ii-da-funcao-jurisdicional/titulo-ii-dos-limites-da-jurisdicao-nacional-e-da-cooperacao-internacional/capitulo-ii-da-cooperacao-internacional.md)
 * [Súmulas STJ](sumulas-stj.md)
 * [Súmulas STF](sumulas-stf.md)
+
+## Leis
+
+* [Lei 8.069/90 - Estatuto da Criança e do Adolescente](leis/lei-8.069-90-estatuto-da-crianca-e-do-adolescente.md)

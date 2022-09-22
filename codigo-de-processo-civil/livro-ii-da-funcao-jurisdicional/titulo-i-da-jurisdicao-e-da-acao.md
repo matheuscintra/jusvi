@@ -9,7 +9,22 @@ Art. 16. A jurisdição civil é exercida pelos juízes e pelos tribunais em tod
 Art. 17. Para postular em juízo é necessário ter interesse e legitimidade.
 
 * <mark style="background-color:blue;">**Súmula 614/STJ**</mark> <mark style="background-color:blue;"></mark><mark style="background-color:blue;">- O locatário não possui legitimidade ativa para discutir a relação jurídico-tributária de IPTU e de taxas referentes ao imóvel alugado nem para repetir indébito desses tributos.</mark>
-* <mark style="background-color:blue;">**Súmula 594/STJ**</mark> <mark style="background-color:blue;"></mark><mark style="background-color:blue;">- O Ministério Público tem legitimidade ativa para ajuizar ação de alimentos em proveito de criança ou adolescente independentemente do exercício do poder familiar dos pais, ou do fato de o menor se encontrar nas situações de risco descritas no art. 98 do Estatuto da Criança e do Adolescente, ou de quaisquer outros questionamentos acerca da existência ou eficiência da Defensoria Pública na comarca.</mark>
+* <mark style="background-color:blue;">**Súmula 594/STJ**</mark> <mark style="background-color:blue;"></mark><mark style="background-color:blue;">- O Ministério Público tem legitimidade ativa para ajuizar ação de alimentos em proveito de criança ou adolescente independentemente do exercício do poder familiar dos pais, ou do fato de o menor se encontrar nas situações de risco descritas no</mark> <mark style="color:red;background-color:blue;">art. 98 do Estatuto da Criança e do Adolescente</mark><mark style="background-color:blue;">, ou de quaisquer outros questionamentos acerca da existência ou eficiência da Defensoria Pública na comarca.</mark>
+
+<details>
+
+<summary>art. 98 do Estatuto da Criança e do Adolescente</summary>
+
+Art. 98. As medidas de proteção à criança e ao adolescente são aplicáveis sempre que os direitos reconhecidos nesta Lei forem ameaçados ou violados:
+
+I - por ação ou omissão da sociedade ou do Estado;
+
+II - por falta, omissão ou abuso dos pais ou responsável;
+
+III - em razão de sua conduta.
+
+</details>
+
 * <mark style="background-color:blue;">**Súmula 529/STJ**</mark> <mark style="background-color:blue;"></mark><mark style="background-color:blue;">- No seguro de responsabilidade civil facultativo, não cabe o ajuizamento de ação pelo terceiro prejudicado direta e exclusivamente em face da seguradora do apontado causador do dano.</mark>
 * <mark style="background-color:blue;">**Súmula 525/STJ**</mark> <mark style="background-color:blue;"></mark><mark style="background-color:blue;">- A Câmara de Vereadores não possui personalidade jurídica, apenas personalidade judiciária, somente podendo demandar em juízo para defender os seus direitos institucionais.</mark>&#x20;
 * <mark style="background-color:blue;">**Súmula 521/STJ**</mark> <mark style="background-color:blue;"></mark><mark style="background-color:blue;">- A legitimidade para a execução fiscal de multa pendente de pagamento imposta em sentença condenatória é exclusiva da Procuradoria da Fazenda Pública.</mark>&#x20;

@@ -37,5 +37,3 @@ IV - concessão de medida judicial de urgência;
 V - assistência jurídica internacional;
 
 VI - qualquer outra medida judicial ou extrajudicial não proibida pela lei brasileira.
-
-Created with the Personal Edition of HelpNDoc: [Easily create iPhone documentation](https://www.helpndoc.com/feature-tour/iphone-website-generation)
