@@ -1,8 +1,8 @@
+---
+description: arts. 1º - 12
+---
+
 # CAPÍTULO I - DAS NORMAS FUNDAMENTAIS DO PROCESSO CIVIL
-
-CAPÍTULO I
-
-DAS NORMAS FUNDAMENTAIS DO PROCESSO CIVIL
 
 Art. 1º O processo civil será ordenado, disciplinado e interpretado conforme os valores e as normas fundamentais estabelecidos na Constituição da República Federativa do Brasil , observando-se as disposições deste Código.
 

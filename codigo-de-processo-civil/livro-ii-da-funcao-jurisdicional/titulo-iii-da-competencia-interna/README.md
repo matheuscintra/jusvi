@@ -1,21 +1,11 @@
 # TÍTULO III - DA COMPETÊNCIA INTERNA
 
-CAPÍTULO I
+CAPÍTULO I - DA COMPETÊNCIA
 
-DA COMPETÊNCIA
+Seção I - Disposições Gerais
 
-Seção I
+Seção II - Da Modificação da Competência
 
-Disposições Gerais
+Seção III - Da Incompetência
 
-Seção II
-
-Da Modificação da Competência
-
-Seção III
-
-Da Incompetência
-
-CAPÍTULO II
-
-DA COOPERAÇÃO NACIONAL
+CAPÍTULO II - DA COOPERAÇÃO NACIONAL

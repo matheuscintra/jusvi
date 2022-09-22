@@ -1,17 +1,9 @@
 # CAPÍTULO II - DA COOPERAÇÃO INTERNACIONAL
 
-Seção I
+Seção I - Disposições Gerais
 
-Disposições Gerais
+Seção II - Do Auxílio Direto
 
-Seção II
+Seção III - Da Carta Rogatória
 
-Do Auxílio Direto
-
-Seção III
-
-Da Carta Rogatória
-
-Seção IV
-
-Disposições Comuns às Seções Anteriores
+Seção IV - Disposições Comuns às Seções Anteriores

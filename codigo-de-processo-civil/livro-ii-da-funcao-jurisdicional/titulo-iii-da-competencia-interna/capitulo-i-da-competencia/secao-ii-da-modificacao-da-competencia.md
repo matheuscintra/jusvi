@@ -10,7 +10,7 @@ Art. 55. Reputam-se conexas 2 (duas) ou mais ações quando lhes for comum o ped
 
 § 1º Os processos de ações conexas serão reunidos para decisão conjunta, salvo se um deles já houver sido sentenciado.
 
-Súmula 235/STJ - A conexão não determina a reunião dos processos, se um deles já foi julgado.
+* <mark style="background-color:blue;">**Súmula 235/STJ**</mark> <mark style="background-color:blue;"></mark><mark style="background-color:blue;">- A conexão não determina a reunião dos processos, se um deles já foi julgado.</mark>
 
 § 2º Aplica-se o disposto no caput :
 

@@ -1,48 +1,48 @@
 # Súmulas STJ
 
-Súmula 651 - Compete à autoridade administrativa aplicar a servidor público a pena de demissão em razão da prática de improbidade administrativa, independentemente de prévia condenação, por autoridade judiciária, à perda da função pública.
+**Súmula 651** - Compete à autoridade administrativa aplicar a servidor público a pena de demissão em razão da prática de improbidade administrativa, independentemente de prévia condenação, por autoridade judiciária, à perda da função pública.
 
-Súmula 650 - A autoridade administrativa não dispõe de discricionariedade para aplicar ao servidor pena diversa de demissão quando caraterizadas as hipóteses previstas no art. 132 da Lei n. 8.112/1990.
+**Súmula 650** - A autoridade administrativa não dispõe de discricionariedade para aplicar ao servidor pena diversa de demissão quando caraterizadas as hipóteses previstas no art. 132 da Lei n. 8.112/1990.
 
-Súmula 649 - Não incide ICMS sobre o serviço de transporte interestadual de mercadorias destinadas ao exterior.
+**Súmula 649** - Não incide ICMS sobre o serviço de transporte interestadual de mercadorias destinadas ao exterior.
 
-Súmula 648 - A superveniência da sentença condenatória prejudica o pedido de trancamento da ação penal por falta de justa causa feito em habeas corpus.
+**Súmula 648** - A superveniência da sentença condenatória prejudica o pedido de trancamento da ação penal por falta de justa causa feito em habeas corpus.
 
-Súmula 647 - São imprescritíveis as ações indenizatórias por danos morais e materiais decorrentes de atos de perseguição política com violação de direitos fundamentais ocorridos durante o regime militar.
+**Súmula 647** - São imprescritíveis as ações indenizatórias por danos morais e materiais decorrentes de atos de perseguição política com violação de direitos fundamentais ocorridos durante o regime militar.
 
-Súmula 646 - É irrelevante a natureza da verba trabalhista para fins de incidência da contribuição ao FGTS, visto que apenas as verbas elencadas em lei (art. 28, § 9º, da Lei n. 8.212/1991), em rol taxativo, estão excluídas da sua base de cálculo, por força do disposto no art. 15, § 6º, da Lei n. 8.036/1990.
+**Súmula 646** - É irrelevante a natureza da verba trabalhista para fins de incidência da contribuição ao FGTS, visto que apenas as verbas elencadas em lei (art. 28, § 9º, da Lei n. 8.212/1991), em rol taxativo, estão excluídas da sua base de cálculo, por força do disposto no art. 15, § 6º, da Lei n. 8.036/1990.
 
-Súmula 645 - O crime de fraude à licitação é formal, e sua consumação prescinde da comprovação do prejuízo ou da obtenção de vantagem.
+**Súmula 645** - O crime de fraude à licitação é formal, e sua consumação prescinde da comprovação do prejuízo ou da obtenção de vantagem.
 
-Súmula 644 - O núcleo de prática jurídica deve apresentar o instrumento de mandato quando constituído pelo réu hipossuficiente, salvo nas hipóteses em que é nomeado pelo juízo.
+**Súmula 644** - O núcleo de prática jurídica deve apresentar o instrumento de mandato quando constituído pelo réu hipossuficiente, salvo nas hipóteses em que é nomeado pelo juízo.
 
-Súmula 643 - A execução da pena restritiva de direitos depende do trânsito em julgado da condenação.
+**Súmula 643** - A execução da pena restritiva de direitos depende do trânsito em julgado da condenação.
 
-Súmula 642 - O direito à indenização por danos morais transmite-se com o falecimento do titular, possuindo os herdeiros da vítima legitimidade ativa para ajuizar ou prosseguir a ação indenizatória.
+**Súmula 642** - O direito à indenização por danos morais transmite-se com o falecimento do titular, possuindo os herdeiros da vítima legitimidade ativa para ajuizar ou prosseguir a ação indenizatória.
 
-Súmula 641 - A portaria de instauração do processo administrativo disciplinar prescinde da exposição detalhada dos fatos a serem apurados.
+**Súmula 641** - A portaria de instauração do processo administrativo disciplinar prescinde da exposição detalhada dos fatos a serem apurados.
 
-Súmula 640 - O benefício fiscal que trata do Regime Especial de Reintegração de Valores Tributários para as Empresas Exportadoras (REINTEGRA) alcança as operações de venda de mercadorias de origem nacional para a Zona Franca de Manaus, para consumo, industrialização ou reexportação para o estrangeiro.
+**Súmula 640** - O benefício fiscal que trata do Regime Especial de Reintegração de Valores Tributários para as Empresas Exportadoras (REINTEGRA) alcança as operações de venda de mercadorias de origem nacional para a Zona Franca de Manaus, para consumo, industrialização ou reexportação para o estrangeiro.
 
-Súmula 639 - Não fere o contraditório e o devido processo decisão que, sem ouvida prévia da defesa, determine transferência ou permanência de custodiado em estabelecimento penitenciário federal.
+**Súmula 639** - Não fere o contraditório e o devido processo decisão que, sem ouvida prévia da defesa, determine transferência ou permanência de custodiado em estabelecimento penitenciário federal.
 
-Súmula 638 - É abusiva a cláusula contratual que restringe a responsabilidade de instituição financeira pelos danos decorrentes de roubo, furto ou extravio de bem entregue em garantia no âmbito de contrato de penhor civil.
+**Súmula 638** - É abusiva a cláusula contratual que restringe a responsabilidade de instituição financeira pelos danos decorrentes de roubo, furto ou extravio de bem entregue em garantia no âmbito de contrato de penhor civil.
 
-Súmula 637 - O ente público detém legitimidade e interesse para intervir, incidentalmente, na ação possessória entre particulares, podendo deduzir qualquer matéria defensiva, inclusive, se for o caso, o domínio.
+**Súmula 637** - O ente público detém legitimidade e interesse para intervir, incidentalmente, na ação possessória entre particulares, podendo deduzir qualquer matéria defensiva, inclusive, se for o caso, o domínio.
 
-Súmula 636 - A folha de antecedentes criminais é documento suficiente a comprovar os maus antecedentes e a reincidência.
+**Súmula 636** - A folha de antecedentes criminais é documento suficiente a comprovar os maus antecedentes e a reincidência.
 
-Súmula 635 - Os prazos prescricionais previstos no art. 142 da Lei n. 8.112/1990 iniciam-se na data em que a autoridade competente para a abertura do procedimento administrativo toma conhecimento do fato, interrompem-se com o primeiro ato de instauração válido - sindicância de caráter punitivo ou processo disciplinar - e voltam a fluir por inteiro, após decorridos 140 dias desde a interrupção.
+**Súmula 635** - Os prazos prescricionais previstos no art. 142 da Lei n. 8.112/1990 iniciam-se na data em que a autoridade competente para a abertura do procedimento administrativo toma conhecimento do fato, interrompem-se com o primeiro ato de instauração válido - sindicância de caráter punitivo ou processo disciplinar - e voltam a fluir por inteiro, após decorridos 140 dias desde a interrupção.
 
-Súmula 634 - Ao particular aplica-se o mesmo regime prescricional previsto na Lei de Improbidade Administrativa para o agente público.
+**Súmula 634** - Ao particular aplica-se o mesmo regime prescricional previsto na Lei de Improbidade Administrativa para o agente público.
 
-Súmula 633 - A Lei n. 9.784/1999, especialmente no que diz respeito ao prazo decadencial para a revisão de atos administrativos no âmbito da Administração Pública federal, pode ser aplicada, de forma subsidiária, aos estados e municípios, se inexistente norma local e específica que regule a matéria.
+**Súmula 633** - A Lei n. 9.784/1999, especialmente no que diz respeito ao prazo decadencial para a revisão de atos administrativos no âmbito da Administração Pública federal, pode ser aplicada, de forma subsidiária, aos estados e municípios, se inexistente norma local e específica que regule a matéria.
 
-Súmula 632 - Nos contratos de seguro regidos pelo Código Civil, a correção monetária sobre a indenização securitária incide a partir da contratação até o efetivo pagamento.
+**Súmula 632** - Nos contratos de seguro regidos pelo Código Civil, a correção monetária sobre a indenização securitária incide a partir da contratação até o efetivo pagamento.
 
-Súmula 631 - O indulto extingue os efeitos primários da condenação (pretensão executória), mas não atinge os efeitos secundários, penais ou extrapenais.
+**Súmula 631** - O indulto extingue os efeitos primários da condenação (pretensão executória), mas não atinge os efeitos secundários, penais ou extrapenais.
 
-Súmula 630 - A incidência da atenuante da confissão espontânea no crime de tráfico ilícito de entorpecentes exige o reconhecimento da traficância pelo acusado, não bastando a mera admissão da posse ou propriedade para uso próprio.
+**Súmula 630** - A incidência da atenuante da confissão espontânea no crime de tráfico ilícito de entorpecentes exige o reconhecimento da traficância pelo acusado, não bastando a mera admissão da posse ou propriedade para uso próprio.
 
 Súmula 629 - Quanto ao dano ambiental, é admitida a condenação do réu à obrigação de fazer ou à de não fazer cumulada com a de indenizar.
 

@@ -4,26 +4,14 @@ description: arts. 21 - 41
 
 # TÍTULO II - DOS LIMITES DA JURISDIÇÃO NACIONAL E DA COOPERAÇÃO INTERNACIONAL
 
-CAPÍTULO I
+CAPÍTULO I - DOS LIMITES DA JURISDIÇÃO NACIONAL
 
-DOS LIMITES DA JURISDIÇÃO NACIONAL
+CAPÍTULO II - DA COOPERAÇÃO INTERNACIONAL
 
-CAPÍTULO II
+Seção I - Disposições Gerais
 
-DA COOPERAÇÃO INTERNACIONAL
+Seção II - Do Auxílio Direto
 
-Seção I
+Seção III - Da Carta Rogatória
 
-Disposições Gerais
-
-Seção II
-
-Do Auxílio Direto
-
-Seção III
-
-Da Carta Rogatória
-
-Seção IV
-
-Disposições Comuns às Seções Anteriores
+Seção IV - Disposições Comuns às Seções Anteriores

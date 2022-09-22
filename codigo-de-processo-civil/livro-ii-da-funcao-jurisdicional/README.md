@@ -1,57 +1,29 @@
 # LIVRO II - DA FUNÇÃO JURISDICIONAL
 
-TÍTULO I
+TÍTULO I - DA JURISDIÇÃO E DA AÇÃO
 
-DA JURISDIÇÃO E DA AÇÃO
+TÍTULO II - DOS LIMITES DA JURISDIÇÃO NACIONAL E DA COOPERAÇÃO INTERNACIONAL
 
-TÍTULO II
+CAPÍTULO I - DOS LIMITES DA JURISDIÇÃO NACIONAL
 
-DOS LIMITES DA JURISDIÇÃO NACIONAL E DA COOPERAÇÃO INTERNACIONAL
+CAPÍTULO II - DA COOPERAÇÃO INTERNACIONAL
 
-CAPÍTULO I
+Seção I - Disposições Gerais
 
-DOS LIMITES DA JURISDIÇÃO NACIONAL
+Seção II - Do Auxílio Direto
 
-CAPÍTULO II
+Seção III - Da Carta Rogatória
 
-DA COOPERAÇÃO INTERNACIONAL
+Seção IV - Disposições Comuns às Seções Anteriores
 
-Seção I
+TÍTULO III - DA COMPETÊNCIA INTERNA
 
-Disposições Gerais
+CAPÍTULO I - DA COMPETÊNCIA
 
-Seção II
+Seção I - Disposições Gerais
 
-Do Auxílio Direto
+Seção II - Da Modificação da Competência
 
-Seção III
+Seção III - Da Incompetência
 
-Da Carta Rogatória
-
-Seção IV
-
-Disposições Comuns às Seções Anteriores
-
-TÍTULO III
-
-DA COMPETÊNCIA INTERNA
-
-CAPÍTULO I
-
-DA COMPETÊNCIA
-
-Seção I
-
-Disposições Gerais
-
-Seção II
-
-Da Modificação da Competência
-
-Seção III
-
-Da Incompetência
-
-CAPÍTULO II
-
-DA COOPERAÇÃO NACIONAL
+CAPÍTULO II - DA COOPERAÇÃO NACIONAL

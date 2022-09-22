@@ -1,13 +1,7 @@
 # CAPÍTULO I - DA COMPETÊNCIA
 
-Seção I
+Seção I - Disposições Gerais
 
-Disposições Gerais
+Seção II - Da Modificação da Competência
 
-Seção II
-
-Da Modificação da Competência
-
-Seção III
-
-Da Incompetência
+Seção III - Da Incompetência
